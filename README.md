@@ -6,7 +6,7 @@ The official implementation of paper "Reference-based Painterly Inpainting via D
 
 Dejia Xu, Xingqian Xu, Wenyan Cong, Humphrey Shi, Zhangyang (Atlas) Wang
 
-[[Paper]](https://arxiv.org/abs/2210.08772) [[Website]](https://vita-group.github.io/RefPaint)
+[[Paper]](https://arxiv.org/abs/2307.10584) [[Website]](https://vita-group.github.io/RefPaint)
 
 ## Overview
 
